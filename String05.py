@@ -7,4 +7,16 @@ def main(s1,s2):
     Returns:
         str: return answer.
     """
-    return 
+ 
+    s1="Jasurbek"
+    s2="Pirnazarov"
+    s3=s1+" "+s2
+    return s3
+print(main("Jasurbek","Pirnazarov"))
+
+
+
+
+
+
+
