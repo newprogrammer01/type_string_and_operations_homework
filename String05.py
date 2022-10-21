@@ -8,10 +8,8 @@ def main(s1,s2):
         str: return answer.
     """
  
-    s1="Jasurbek"
-    s2="Pirnazarov"
-    s3=s1+" "+s2
-    return s3
+   
+    return s1+" "+s2
 print(main("Jasurbek","Pirnazarov"))
 
 
