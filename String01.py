@@ -5,6 +5,6 @@ def main():
     Returns:
         str: return answer.
     """
-    return "1234568"
+    return 1234568
 print(main())
 
