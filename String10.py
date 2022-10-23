@@ -8,5 +8,6 @@ def main(x,y):
         str: return answer.
     """
     answer=(x+y)*2
-    return answer
-print(main(3,2))
+    return {answer}
+print(main("salom" , "dunyo"))
+
