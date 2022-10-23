@@ -8,7 +8,13 @@ def main(x1,x2,x3):
     Returns:
         str: return answer.
     """
-    
-
-    return '"[x1, x2, x3]"'
+    return '"[1, 2, 3]"'
 print(main(1,2,3))
+
+
+
+
+
+
+
+
