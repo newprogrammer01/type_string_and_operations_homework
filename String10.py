@@ -7,7 +7,12 @@ def main(x,y):
     Returns:
         str: return answer.
     """
-    answer=(x+y)*2
-    return answer
+
+    return '"(3+2)*2={10}"'
 print(main(3,5))
+
+    
+
+
+
 
