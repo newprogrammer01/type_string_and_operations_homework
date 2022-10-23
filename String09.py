@@ -10,5 +10,5 @@ def main(x1,x2,x3):
     """
     
 
-    return [x1, x2, 3]
+    return '"[x1, x2, 3]"'
 print(main(1,2,3))
